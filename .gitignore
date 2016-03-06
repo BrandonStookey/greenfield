@@ -1,0 +1,15 @@
+node_modules/
+bower_components/
+*.log
+
+build/
+dist/
+public/client/assets/libs/
+
+.env
+
+.floo
+.flooignore
+
+.mysql*
+.my.cnf*
